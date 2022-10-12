@@ -2773,7 +2773,7 @@ let capt = `⭔ Title: ${judul}
                 ]
                 },
                 ]
-                hisoka.sendListMsg(m.chat, `Please select the menu you want to change!`, hisoka.user.name, `Hello Owner !`, `Click Here`, sections, m)
+                hisoka.sendListMsg(m.chat, `Please select the menu you want to change!`, Fahri.user.name, `Hello Owner !`, `Click Here`, sections, m)
                 }
             }
             break
@@ -3102,12 +3102,12 @@ let capt = `⭔ Title: ${judul}
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://wa.me/6288287764273'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 882-8776-4273'
                                 }
                             }, {
                                 quickReplyButton: {
